@@ -1,0 +1,4 @@
+---
+endpoint: dc.lab.local:8103
+key_path: ssl\self.lab.local.key
+crt_path: ssl\self.lab.local.crt
